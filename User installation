@@ -1,0 +1,26 @@
+Apple Users
+For Apple use, MAMP is quite good. Like Wampserver, it installs everything you need for this course. You can download it from here:
+
+https://www.mamp.info/en/
+
+What you're doing here is getting the apache server up and running so that you can run PHP scripts offline. Pay particular attention to where files are stored, and to the "localhost" address.
+
+ 
+
+Linux Users
+There are quite a few sites out there to help Linux users get up and running with the Apache server and PHP. Unfortunately, there's no easy way like there is for Windows and Mac users. You best bet is to Google your distro with the following:
+
+Lamp +Ubuntu
+
+Or
+
+Lamp +Debian
+
+There's also quite a few YouTube videos that will help you instal everything you need.
+
+ 
+
+Windows Users
+OK, back to Wampserver and Windows. First, you need to download the software. You can get it from here (this site is nothing to do with ours, by the way):
+
+Download Wampserver
