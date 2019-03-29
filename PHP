@@ -1,0 +1,7 @@
+PHP is probably the most popular scripting language on the web. It is used to enhance web pages. With PHP, you can do things like create username and password login pages, check details from a form, create forums, picture galleries, surveys, and a whole lot more. If you've come across a web page that ends in PHP, then the author has written some programming code to liven up the plain, old HTML.
+
+PHP is known as a server-sided language. That's because the PHP doesn't get executed on your computer, but on the computer you requested the page from. The results are then handed over to you, and displayed in your browser. Other scripting languages you may have heard of are ASP, Python and Perl. (You don't need to know any of these to make a start on PHP. In fact, these tutorials assume that you have no programming experience at all.)
+
+The most popular explanation of just what PHP stands for is "Hypertext Pre-processor". But that would make it HPP, surely? An alternative explanation is that the initials come from the earliest version of the program, which was called Personal Home Page Tools. At least you get the letters "PHP" in the right order!
+
+But PHP is so popular that if you're looking for a career in the web design/web scripting industry then you just have to know it! In these tutorials, we'll get you up and running. And, hopefully, it will be a lot easier than you think.
